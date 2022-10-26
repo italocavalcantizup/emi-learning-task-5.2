@@ -184,7 +184,7 @@
                     </view>
                     <connections>
                         <outlet property="listaDeDespesasView" destination="SB7-hd-QBo" id="Nuk-aV-jeU"/>
-                        <outlet property="registraButton" destination="4X3-SB-cFC" id="Umb-xh-tIl"/>
+                        <outlet property="registraButton" destination="MnL-GQ-Ij3" id="2Vf-BF-dqv"/>
                         <outlet property="tipoTextField" destination="4UR-y8-A7X" id="siu-sx-rur"/>
                         <outlet property="tituloTextField" destination="iws-aO-JyQ" id="wGS-Tt-pud"/>
                         <outlet property="valorTextField" destination="fGE-Yv-MEV" id="MeQ-dj-IS5"/>
